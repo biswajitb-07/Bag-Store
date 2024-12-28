@@ -1,0 +1,22 @@
+[
+    {
+        "icon": "../images/a-1.svg",
+        "title": "High Precision",
+        "description": "Quam elementum pulvinar etiam non quam lacus suspendisse faucibus lectus mauris."
+    },
+    {
+        "icon": "../images/a-2.svg",
+        "title": "Award Winning",
+        "description": "Mus mauris vitae ultricies leo. Ac feugiat sed lectus vestibulum lacus laoreet non curabitur."
+    },
+    {
+        "icon": "../images/a-3.svg",
+        "title": "Environment Friendly",
+        "description": "Vulputate dignissim suspendisse in est ante cursus sit amet dictum sit amet justo."
+    },
+    {
+        "icon": "../images/a-4.svg",
+        "title": "Worldwide Shipping",
+        "description": "Sit amet nisl suscipit adipiscing bibendum ultricies integer tristique magna sit amet."
+    }
+]

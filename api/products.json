@@ -1,0 +1,145 @@
+[
+  {
+    "id": 1,
+    "name": "Aturna condimentum mattis pellentesque nibh tortor",
+    "image": "../images/bag-1.jpg",
+    "price": 70.00,
+    "originalPrice": 80.00,
+    "rating": 3,
+    "category": "CASUAL",
+    "description": "A stylish and durable bag designed for casual use, perfect for everyday errands and outings.",
+    "about": "Made from high-quality materials, this bag offers both durability and comfort. Designed for daily use, it pairs well with casual outfits."
+  },
+  {
+    "id": 2,
+    "name": "Donec ultrices tincidunt arcu non sodales",
+    "image": "../images/bag-5.jpg",
+    "price": 25.00,
+    "originalPrice": 35.00,
+    "rating": 4,
+    "category": "CASUAL",
+    "description": "A compact and comfortable bag for casual occasions, combining practicality with elegance.",
+    "about": "Compact yet spacious enough for essentials, this bag is lightweight and stylish, making it ideal for casual outings."
+  },
+  {
+    "id": 3,
+    "name": "Eleifend donec pretium vulputate sapien sagittis",
+    "image": "../images/bag-6.jpg",
+    "price": 40.00,
+    "originalPrice": 80.00,
+    "rating": 4,
+    "category": "TRAVEL",
+    "description": "A spacious travel bag with ample storage and a stylish design for all your adventures.",
+    "about": "Engineered for frequent travelers, this bag includes multiple compartments for organization and easy access."
+  },
+  {
+    "id": 4,
+    "name": "Fringilla Phasellus Faucus Scelerisque Eleifend Donec",
+    "image": "../images/bag-2.jpg",
+    "price": 55.00,
+    "originalPrice": 60.00,
+    "rating": 4,
+    "category": "CASUAL",
+    "description": "A versatile casual bag that fits your daily essentials while offering a modern look.",
+    "about": "Designed for versatility, this bag is perfect for both work and leisure, offering a sleek and functional design."
+  },
+  {
+    "id": 5,
+    "name": "Libero faucibus nistincidunt elementum integer",
+    "image": "../images/bag-7.jpg",
+    "price": 45.00,
+    "originalPrice": null,
+    "rating": 5,
+    "category": "CASUAL",
+    "description": "An elegant, minimalist bag that goes well with any casual outfit and offers superb comfort.",
+    "about": "Focused on simplicity, this bag boasts a clean design and durable build, ensuring long-term use and timeless style."
+  },
+  {
+    "id": 6,
+    "name": "Mollis nunc sed id semper risus in hendrerit",
+    "image": "../images/bag-3.jpg",
+    "price": 45.00,
+    "originalPrice": 60.00,
+    "rating": 2.5,
+    "category": "CASUAL",
+    "description": "A practical yet stylish bag, perfect for those who value simplicity and functionality.",
+    "about": "Combining practicality and modern design, this bag offers ample space for everyday essentials with a minimalistic touch."
+  },
+  {
+    "id": 7,
+    "name": "Neque laoreet suspendisse interdum consectetur",
+    "image": "../images/bag-8.jpg",
+    "price": 25.00,
+    "originalPrice": 40.00,
+    "rating": 3,
+    "category": "CASUAL",
+    "description": "A small and sleek bag, ideal for light use with a chic and contemporary design.",
+    "about": "Compact and lightweight, this bag is a perfect match for those who need an easy-to-carry accessory for light use."
+  },
+  {
+    "id": 8,
+    "name": "Ornare arcu odio utsem nullapharetra diam",
+    "image": "../images/bag-9.jpg",
+    "price": 35.00,
+    "originalPrice": 45.00,
+    "rating": 3.5,
+    "category": "TRAVEL",
+    "description": "A functional travel bag with spacious compartments for keeping your belongings organized.",
+    "about": "Tailored for travelers, this bag offers convenience with its spacious compartments and ergonomic design."
+  },
+  {
+    "id": 9,
+    "name": "Ornare arcudui vivamus arcu felis bibendum",
+    "image": "../images/bag-10.jpg",
+    "price": 35.00,
+    "originalPrice": 50.00,
+    "rating": 5,
+    "category": "CASUAL",
+    "description": "A sleek and high-quality casual bag with a timeless design that complements any outfit.",
+    "about": "Featuring premium materials, this bag combines elegance and utility for a seamless casual experience."
+  },
+  {
+    "id": 10,
+    "name": "Rhoncus aenean velelit scelerisque mauris",
+    "image": "../images/bag-11.jpg",
+    "price": 45.00,
+    "originalPrice": 75.00,
+    "rating": 5,
+    "category": "CASUAL",
+    "description": "A stylish, all-purpose bag that's great for both casual and semi-formal occasions.",
+    "about": "Designed with versatility in mind, this bag is suitable for various occasions, blending form and function effortlessly."
+  },
+  {
+    "id": 11,
+    "name": "Scelerisque mauris pellentesque pulvinar",
+    "image": "../images/bag-4.jpg",
+    "price": 35.00,
+    "originalPrice": 55.00,
+    "rating": 4,
+    "category": "TRAVEL",
+    "description": "A rugged and spacious travel bag designed for long trips and all types of adventures.",
+    "about": "Built for the road, this travel bag offers durability and ample space for all your essential gear."
+  },
+  {
+    "id": 12,
+    "name": "Tellus molestie nuncnon blandit elementum",
+    "image": "../images/bag-12.jpg",
+    "price": 25.00,
+    "originalPrice": 35.00,
+    "rating": 4.1,
+    "category": "TRAVEL",
+    "description": "A durable and reliable travel bag that’s built to withstand the rigors of frequent travel.",
+    "about": "Optimized for frequent travelers, this bag features tough construction and ergonomic design for long-term use."
+  },
+  {
+    "id": 13,
+    "name": "Vestibulum sedarcu nonodio euismod",
+    "image": "../images/bag-13.jpg",
+    "price": 25.00,
+    "originalPrice": 35.00,
+    "rating": 5,
+    "category": "TRAVEL",
+    "description": "An elegant and practical travel bag designed for the modern traveler with plenty of space.",
+    "about": "This travel bag combines elegance and functionality, ensuring you travel in style with all the space you need."
+  }
+]

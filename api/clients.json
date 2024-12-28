@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "text": "Sagittis nisl rhoncus mattis rhoncus urna neque viverra. In iaculis nunc sed augue lacus viverra vitae congue.",
+        "name": "Jason Wong",
+        "role": "CEO of wongsite.com",
+        "image": "../images/client-1.jpg"
+    },
+    {
+        "id": 2,
+        "text": "Sagittis nisl rhoncus mattis rhoncus urna neque viverra. In iaculis nunc sed augue lacus viverra vitae congue.",
+        "name": "Jason Wong",
+        "role": "CEO of wongsite.com",
+        "image": "../images/client-2.jpg"
+    },
+    {
+        "id": 3,
+        "text": "Sagittis nisl rhoncus mattis rhoncus urna neque viverra. In iaculis nunc sed augue lacus viverra vitae congue.",
+        "name": "Jason Wong",
+        "role": "CEO of wongsite.com",
+        "image": "../images/client-3.jpg"
+    }
+]

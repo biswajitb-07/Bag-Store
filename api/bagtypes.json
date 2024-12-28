@@ -1,0 +1,22 @@
+[
+    {
+        "images": "../images/bagtype-1.jpg",
+        "title": "Lorem, ipsum dolor sit amet consectetur",
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Totam laboriosam omnis reprehenderit exercitationem aliquid dolorem placeat quis cumque asperiores molestias!"
+    },
+    {
+        "images": "../images/bagtype-2.jpg",
+        "title": "Lorem, ipsum dolor sit amet consectetur",
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Totam laboriosam omnis reprehenderit exercitationem aliquid dolorem placeat quis cumque asperiores molestias!"
+    },
+    {
+        "images": "../images/bagtype-3.jpg",
+        "title": "Lorem, ipsum dolor sit amet consectetur",
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Totam laboriosam omnis reprehenderit exercitationem aliquid dolorem placeat quis cumque asperiores molestias!"
+    },
+    {
+        "images": "../images/bagtype-4.jpg",
+        "title": "Lorem, ipsum dolor sit amet consectetur",
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Totam laboriosam omnis reprehenderit exercitationem aliquid dolorem placeat quis cumque asperiores molestias!"
+    }
+]

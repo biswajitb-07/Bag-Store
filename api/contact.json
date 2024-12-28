@@ -1,0 +1,34 @@
+[
+    {
+        "type": "Physical Address",
+        "icon": "../images/c-1.svg",
+        "details": [
+            "304 North Cardinal St.",
+            "Dorchester Center, MA 02124"
+        ]
+    },
+    {
+        "type": "Work Hours",
+        "icon": "../images/c-2.svg",
+        "details": [
+            "Monday to Friday: 7am - 7pm",
+            "Weekend: 10am - 5pm"
+        ]
+    },
+    {
+        "type": "Email Address",
+        "icon": "../images/c-3.svg",
+        "details": [
+            "info@company.com",
+            "contact@company.com"
+        ]
+    },
+    {
+        "type": "Phone Numbers",
+        "icon": "../images/c-4.svg",
+        "details": [
+            "1-555-123-4567",
+            "1-800-123-4567"
+        ]
+    }
+]

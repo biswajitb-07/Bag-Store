@@ -1,0 +1,21 @@
+[
+    {
+      "name": "Melissa Peterson",
+      "role": "Creative Head",
+      "image": "../images/ab-1.jpg",
+      "description": "Suspendisse potenti nullam ac tortor. Amet aliquam id diam maecenas amet dictum sit amet."
+    },
+    {
+      "name": "Nicolas Anderson",
+      "role": "Marketing Director",
+      "image": "../images/ab-2.jpg",
+      "description": "Neque gravida in fermentum et sollicitudin ac orci phasellus egestas dignissim suspendisse."
+    },
+    {
+      "name": "Annette Ferintor",
+      "role": "Brand Designer",
+      "image": "../images/ab-3.jpg",
+      "description": "Pellentesque eu tincidunt tortor aliquam nulla facilisi cursus sit amet dictum sit amet justo."
+    }
+  ]
+  
